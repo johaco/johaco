@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola! Mi nombre es Joaquin Sanchez 👋
 
 <!--
 **johaco/johaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
